@@ -8,9 +8,9 @@ I'm Prathmesh, a Software Developer from India,Mumbai, dedicated to being a full
 
 ## 🚀 Tech Stack I have worked on
 - Java, Spring Boot
-- Angular JS, Bootstrap
+- Angular JS, Bootstrap ,Css
 - Databases: MySQL
-- Cloud: AWS
+- Cloud: AWS , Hostinger
 
 ## ✍️ My latest Projects
 - [Payment Gateway Integration & Database Monitoring]
