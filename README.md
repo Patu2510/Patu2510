@@ -1,16 +1,19 @@
-## Hi there 👋
+<img src="do-something-great.gif" width="100%"/>
 
-<!--
-**Patu2510/Patu2510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hola! Nice to see you.
 
-Here are some ideas to get you started:
+I'm Prathmesh, a Software Developer from India,Mumbai, dedicated to being a full-stack developer and a software architect.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 [Here is my short dev portfolio](https://patu2510.github.io/My-Portfolio/)
+
+## 🚀 Tech Stack I have worked on
+- Java, Spring Boot
+- Angular JS, Bootstrap
+- Databases: MySQL
+- Cloud: AWS
+
+## ✍️ My latest Projects
+- [Payment Gateway Integration & Database Monitoring]
+- [Creating and maintaining Weebhoks]
+- [API Response Enhancement and Implementation]
+- [Admin Dashboard Project]
