@@ -4,7 +4,7 @@
 
 I'm Prathmesh, a Software Developer from India,Mumbai, dedicated to being a full-stack developer and a software architect.
 
-🔗 [Here is my short dev portfolio](https://patu2510.github.io/My-Portfolio/)
+🔗 [Here is my short dev portfolio](https://patu2510.github.io/Portfolio/)
 
 ## 🚀 Tech Stack I have worked on
 - Java, Spring Boot
